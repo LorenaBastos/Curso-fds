@@ -1,0 +1,28 @@
+body{ 
+    padding: 0 450px;
+}
+h1{
+    text-align: center;
+color: white;
+background-color: blue;
+font-size: 30pt;
+}
+ h2 {
+     font-size: 20px;
+ }
+
+ #download
+ {
+     max-width:10%;
+     max-height: 10%;
+ 
+ 
+ } 
+#facebook
+{
+    max-width:10%;
+    max-height: 10%;
+
+
+}
+
